@@ -50,5 +50,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<finalName>hello-world-api</finalName>
 </project>
